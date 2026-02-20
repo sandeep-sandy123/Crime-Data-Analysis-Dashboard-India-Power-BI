@@ -60,4 +60,12 @@ The dataset includes multi-year crime statistics across Indian states.
 Data was cleaned and structured before building the dashboard.
 
 7. Screenshots/ Demo
-   
+https://github.com/sandeep-sandy123/Crime-Data-Analysis-Dashboard-India-Power-BI/blob/main/Screenshot%202025-10-08%20222644.png
+
+https://github.com/sandeep-sandy123/Crime-Data-Analysis-Dashboard-India-Power-BI/blob/main/Screenshot%202025-10-08%20222701.png
+
+https://github.com/sandeep-sandy123/Crime-Data-Analysis-Dashboard-India-Power-BI/blob/main/Screenshot%202025-10-08%20222711.png
+
+https://github.com/sandeep-sandy123/Crime-Data-Analysis-Dashboard-India-Power-BI/blob/main/Screenshot%202025-10-08%20222946.png
+
+https://github.com/sandeep-sandy123/Crime-Data-Analysis-Dashboard-India-Power-BI/blob/main/Crime%20Data%20Analysis%20Dashboard%20%E2%80%93%20India.pbix
