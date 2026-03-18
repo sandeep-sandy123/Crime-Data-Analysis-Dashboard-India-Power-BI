@@ -1,5 +1,10 @@
 # Crime-Data-Analysis-Dashboard-India-Power-BI
-This project analyzes crime data related to sexual offenses in India using Power BI. The objective was to identify year-over-year trends, state-wise distribution, and category-level patterns through interactive visualizations.
+
+🔍 Problem Statement
+Authorities lack clear insights into crime patterns, high-risk regions, and time-based trends for effective decision-making.
+
+ 🎯 Objective
+To analyze crime data and identify patterns to support public safety awareness and strategic planning.
 
 1. 📌 Project Overview
 
@@ -18,48 +23,50 @@ Highlight regional variations
 
 Present insights through interactive dashboards
 
-3. 🛠 Tools & Technologies Used
+3. 🛠 Tools Used
 
 Power BI
 
-Power Query (Data Cleaning & Transformation)
+Excel
 
-DAX (Calculated Measures)
+ChatGPT (for data exploration and KPI structuring)
 
-Data Modeling
+4. 📈 Key KPIs
 
-Interactive Filters & Slicers
+Crime Rate by Region
 
-4. 📊 Dashboard Features
+Category-wise Distribution
 
-Year-wise trend analysis
+Time-based Trends
 
-State-wise crime comparison
-
-Category-level breakdown
+Year-over-Year Changes
 
 KPI cards showing total cases
 
-Dynamic filtering using slicers
-
 Clean and structured visual layout
 
-5. 🔍 Key Insights
+5. 📊 Key Insights
 
-Certain states consistently report higher case numbers.
+Identified high-crime regions requiring focused attention
 
-Year-over-year growth trends indicate changes in reporting patterns.
+Observed time-based spikes in specific crime categories
 
-Regional distribution shows significant variation.
+Detected trends across years indicating pattern changes
 
-Data visualization helps identify spikes and anomalies across years.
+6. 💡 Recommendations
 
-6. 📂 Dataset
+Increase monitoring in high-risk regions
+
+Deploy resources during peak crime periods
+
+Improve awareness and preventive strategies
+
+7. 📂 Dataset
 
 The dataset includes multi-year crime statistics across Indian states.
 Data was cleaned and structured before building the dashboard.
 
-7. Screenshots/ Demo
+8. Screenshots/ Demo
 https://github.com/sandeep-sandy123/Crime-Data-Analysis-Dashboard-India-Power-BI/blob/main/Screenshot%202025-10-08%20222644.png
 
 https://github.com/sandeep-sandy123/Crime-Data-Analysis-Dashboard-India-Power-BI/blob/main/Screenshot%202025-10-08%20222701.png
