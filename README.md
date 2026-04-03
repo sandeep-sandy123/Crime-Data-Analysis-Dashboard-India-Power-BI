@@ -24,7 +24,7 @@ victims data across multiple years
 
 ## Files
 - Crime Data Analysis Dashboard India.pbix
-- CRIMES_BY_PLACES.csv
+- [CRIMES_BY_PLACES.csv](https://github.com/sandeep-sandy123/Crime-Data-Analysis-Dashboard-India-Power-BI/blob/main/CRIMES%20BY%20PLACES.csv)
 - DISTRICT_WISE_CRIMES.csv
 - JUVENILE_APPREHENDED.csv
 - VICTIMS_OF_RAPE.csv
