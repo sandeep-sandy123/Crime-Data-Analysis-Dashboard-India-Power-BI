@@ -13,9 +13,9 @@ district-wise crimes, juvenile data,
 victims data across multiple years
 
 ## Key Findings
-- [Open dashboard → add top crime state here]
-- [Add year with highest reported cases here]
-- [Add any % increase/decrease trend here]
+- Uttar Pradesh — highest bar
+- 2021 — peak year
+- Increased by about 30% from 2018 to 2021
 
 ## Dashboard
 ![Overview](crime_dashboard_overview.png)
